@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CryptoMob</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="result">Result</string>
+    <string name="submit">submit</string>
+    <string name="input">input</string>
+</resources>
